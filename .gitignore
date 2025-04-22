@@ -29,3 +29,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Folder for panelized output
+panelized_output
