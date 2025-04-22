@@ -10,6 +10,7 @@ This repository contains developments on **_in-situ_** upgrade kits for older Mi
 
 - USB Type port is located on top layer, accompanied by a pair of 5K1 resistors. 
 - Mirrored footprint of a Micro (or Mini) USB port is situated at the bottom layer.
+- Use of 0603 size of resistors would keep this project manually solderable
 
 Theoretically, it allows for upgrading older devices by directly soldering of adapter over existing footprint. 
 
